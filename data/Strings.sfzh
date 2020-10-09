@@ -1,0 +1,13 @@
+<region> sample=OrgueEgliseStrings C3.wav  pitch_keycenter=48  lokey=36  hikey=49
+<region> sample=OrgueEgliseStrings E3.wav  pitch_keycenter=52  lokey=50  hikey=53
+<region> sample=OrgueEgliseStrings G3.wav  pitch_keycenter=55  lokey=54  hikey=57
+<region> sample=OrgueEgliseStrings C4.wav  pitch_keycenter=60  lokey=58  hikey=61
+<region> sample=OrgueEgliseStrings E4.wav  pitch_keycenter=64  lokey=62  hikey=65
+<region> sample=OrgueEgliseStrings G4.wav  pitch_keycenter=67  lokey=66  hikey=69
+<region> sample=OrgueEgliseStrings C5.wav  pitch_keycenter=72  lokey=70  hikey=73
+<region> sample=OrgueEgliseStrings E5.wav  pitch_keycenter=76  lokey=74  hikey=77
+<region> sample=OrgueEgliseStrings G5.wav  pitch_keycenter=79  lokey=78  hikey=81
+<region> sample=OrgueEgliseStrings C6.wav  pitch_keycenter=84  lokey=82  hikey=85
+<region> sample=OrgueEgliseStrings E6.wav  pitch_keycenter=88  lokey=86  hikey=89
+<region> sample=OrgueEgliseStrings G6.wav  pitch_keycenter=91  lokey=90  hikey=93
+<region> sample=OrgueEgliseStrings C7.wav  pitch_keycenter=96  lokey=94  hikey=96

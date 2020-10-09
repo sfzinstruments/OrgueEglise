@@ -1,0 +1,10 @@
+// Orgue Eglise - Reeds
+//
+// Converted from the original GigaSampler version by S. Christian Collins
+// www.schristiancollins.com
+
+#include "data/control.sfzh"
+
+#include "data/master.sfzh"
+
+<group> #include "data/Reeds.sfzh"

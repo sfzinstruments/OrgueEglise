@@ -1,0 +1,18 @@
+volume=-5
+<region> sample=OrgueEgliseDoux C2.wav  pitch_keycenter=36  lokey=36  hikey=37
+<region> sample=OrgueEgliseDoux E2.wav  pitch_keycenter=40  lokey=38  hikey=41
+<region> sample=OrgueEgliseDoux G2.wav  pitch_keycenter=43  lokey=42  hikey=45
+<region> sample=OrgueEgliseDoux C3.wav  pitch_keycenter=48  lokey=46  hikey=49
+<region> sample=OrgueEgliseDoux E3.wav  pitch_keycenter=52  lokey=50  hikey=53
+<region> sample=OrgueEgliseDoux G3.wav  pitch_keycenter=55  lokey=54  hikey=57
+<region> sample=OrgueEgliseDoux C4.wav  pitch_keycenter=60  lokey=58  hikey=61
+<region> sample=OrgueEgliseDoux E4.wav  pitch_keycenter=64  lokey=62  hikey=65
+<region> sample=OrgueEgliseDoux G4.wav  pitch_keycenter=67  lokey=66  hikey=69
+<region> sample=OrgueEgliseDoux C5.wav  pitch_keycenter=72  lokey=70  hikey=73
+<region> sample=OrgueEgliseDoux E5.wav  pitch_keycenter=76  lokey=74  hikey=77
+<region> sample=OrgueEgliseDoux G5.wav  pitch_keycenter=79  lokey=78  hikey=80
+<region> sample=OrgueEgliseDoux A#5.wav  pitch_keycenter=82  lokey=81  hikey=83
+<region> sample=OrgueEgliseDoux C#6.wav  pitch_keycenter=85  lokey=84  hikey=86
+<region> sample=OrgueEgliseDoux E6.wav  pitch_keycenter=88  lokey=87  hikey=89
+<region> sample=OrgueEgliseDoux G6.wav  pitch_keycenter=91  lokey=90  hikey=93
+<region> sample=OrgueEgliseDoux C7.wav  pitch_keycenter=96  lokey=94  hikey=96

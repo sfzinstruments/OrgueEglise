@@ -1,0 +1,10 @@
+// Orgue Eglise - Full (all stops)
+//
+// Converted from the original GigaSampler version by S. Christian Collins
+// www.schristiancollins.com
+
+#include "data/control.sfzh"
+
+#include "data/master.sfzh"
+
+#include "data/Full.sfzh"

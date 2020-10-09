@@ -1,0 +1,29 @@
+// Orgue Eglise - Keyswitch
+//
+// Keyswitches:
+//   C1: Full (all stops)
+//   D1: Doux (soft)
+//   E1: Reeds
+//   F1: Strings
+//
+// Converted from the original GigaSampler version by S. Christian Collins
+// www.schristiancollins.com
+
+#include "data/control.sfzh"
+
+<global>
+sw_lokey=c1  sw_hikey=f1  sw_default=c1
+
+#include "data/master.sfzh"
+
+<group> group_label=Full  sw_lolast=c1  sw_hilast=c1
+#include "data/Full.sfzh"
+
+<group> group_label=Soft  sw_lolast=d1  sw_hilast=d1
+#include "data/Soft.sfzh"
+
+<group> group_label=Reeds  sw_lolast=e1  sw_hilast=e1
+#include "data/Reeds.sfzh"
+
+<group> group_label=Strings  sw_lolast=f1  sw_hilast=f1
+#include "data/Strings.sfzh"

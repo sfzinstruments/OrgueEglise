@@ -1,0 +1,17 @@
+volume=-2
+<region> sample=OrgueEgliseReeds C2.wav  pitch_keycenter=36  lokey=36  hikey=37
+<region> sample=OrgueEgliseReeds E2.wav  pitch_keycenter=40  lokey=38  hikey=41
+<region> sample=OrgueEgliseReeds G2.wav  pitch_keycenter=43  lokey=42  hikey=45
+<region> sample=OrgueEgliseReeds C3.wav  pitch_keycenter=48  lokey=46  hikey=49
+<region> sample=OrgueEgliseReeds E3.wav  pitch_keycenter=52  lokey=50  hikey=53
+<region> sample=OrgueEgliseReeds G3.wav  pitch_keycenter=55  lokey=54  hikey=57
+<region> sample=OrgueEgliseReeds C4.wav  pitch_keycenter=60  lokey=58  hikey=61
+<region> sample=OrgueEgliseReeds E4.wav  pitch_keycenter=64  lokey=62  hikey=65
+<region> sample=OrgueEgliseReeds G4.wav  pitch_keycenter=67  lokey=66  hikey=69
+<region> sample=OrgueEgliseReeds C5.wav  pitch_keycenter=72  lokey=70  hikey=73
+<region> sample=OrgueEgliseReeds E5.wav  pitch_keycenter=76  lokey=74  hikey=77
+<region> sample=OrgueEgliseReeds G5.wav  pitch_keycenter=79  lokey=78  hikey=81
+<region> sample=OrgueEgliseReeds C6.wav  pitch_keycenter=84  lokey=82  hikey=85
+<region> sample=OrgueEgliseReeds E6.wav  pitch_keycenter=88  lokey=86  hikey=89
+<region> sample=OrgueEgliseReeds G6.wav  pitch_keycenter=91  lokey=90  hikey=93
+<region> sample=OrgueEgliseReeds C7.wav  pitch_keycenter=96  lokey=94  hikey=96
