@@ -1,1 +1,7 @@
 <master> ampeg_release=0.6  amp_veltrack=0  amplitude_oncc11=100
+
+var01_pan=200
+var01_mod=mult
+var01_oncc21=1
+var01_oncc133=1
+var01_curvecc133=1

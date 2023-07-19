@@ -1,3 +1,4 @@
 <control>
 default_path=samples/
-label_cc11=Expression  set_cc11=127
+label_cc11=Expression     set_cc11=127
+label_cc21=Stereo Spread  set_cc21=64
